@@ -1,4 +1,6 @@
-# v
+# Antd Admin Next
+
+typescripts, vue3
 
 ## Project setup
 ```
